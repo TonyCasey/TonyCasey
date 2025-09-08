@@ -40,7 +40,7 @@ C# cryptocurrency trading bot with automated analysis and trading strategies. De
 AI-enhanced version of the crypto trading bot, integrating machine learning for market prediction and automated decision-making.
 
 ### [Public Prep](https://github.com/TonyCasey/public-prep) 📚
-Application designed to help prepare repositories for public visibility, including automated documentation generation and code quality analysis.
+AI-Powered Interview Preparation Platform with AI-powered feedback, speech recognition, and structured evaluation using the STAR method.
 
 ### [NASA Explorer](https://github.com/TonyCasey/nasa-explorer) 🌌
 TypeScript application integrating NASA's APIs for astronomical data exploration. Demonstrates modern frontend development and API integration patterns.
@@ -48,7 +48,7 @@ TypeScript application integrating NASA's APIs for astronomical data exploration
 ## 💼 Professional Background
 
 **eShopWorld (2013-2025)** - Senior .NET Developer  
-*Started as 5th developer, scaled through hypergrowth*
+*Started as 5th developer, scaled through hypergrowth to unicorn*
 - Architected checkout systems serving millions of transactions
 - Led migration from monolithic WCF to .NET Core microservices
 - Implemented Kafka-driven architecture on Azure
