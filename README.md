@@ -1,11 +1,11 @@
 # Tony Casey 👋
 
-**Senior Software Engineer | Dublin, Ireland**  
-*Transitioning from Enterprise .NET to AI Infrastructure Development*
+**Senior Software Engineer AI | Dublin, Ireland**  
+*Transitioning from Enterprise .NET to AI Software Development*
 
 ## About Me
 
-I'm a seasoned software engineer with 15+ years building scalable enterprise systems, now actively transitioning into AI infrastructure development. My background includes architecting systems that serve millions of users at eShopWorld and founding VendorShop, the first Facebook commerce platform.
+I'm a seasoned software engineer with 15+ years building scalable enterprise systems, now actively transitioning into AI Software development. My background includes architecting systems that serve millions of users at eShopWorld and founding VendorShop, the first Facebook commerce platform.
 
 Currently pursuing a Professional Diploma in AI for Software Developers at University of Galway while building practical AI applications and testing enterprise migration strategies with Claude Code.
 
@@ -36,8 +36,11 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 ### [Cryptobot](https://github.com/TonyCasey/cryptobot) ₿
 C# cryptocurrency trading bot with automated analysis and trading strategies. Demonstrates real-time data processing and financial API integration.
 
-### [Cryptobot AI](https://github.com/TonyCasey/cryptobot-ai) 🤖
-AI-enhanced version of the crypto trading bot, integrating machine learning for market prediction and automated decision-making.
+### [Cryptobot AI Nodejs Migration](https://github.com/TonyCasey/cryptobot-nodejs-migration)) 🤖
+An AI Claude Code driven migration of the original .Net Framework 4 solution [Cryptobot](https://github.com/TonyCasey/cryptobot) to Node.js and a monorepo structure.
+
+### [Cryptobot AI DotNet Migration](https://github.com/TonyCasey/cryptobot-dotnet-migration)) 🤖
+An AI Claude Code driven migration of the original .Net Framework 4 solution [Cryptobot](https://github.com/TonyCasey/cryptobot) to .NET 9/C# 13 following Clean Architecture principles.
 
 ### [Public Prep](https://github.com/TonyCasey/public-prep) 📚
 AI-Powered Interview Preparation Platform with AI-powered feedback, speech recognition, and structured evaluation using the STAR method.
