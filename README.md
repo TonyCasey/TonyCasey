@@ -36,10 +36,10 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 ### [Cryptobot](https://github.com/TonyCasey/cryptobot) ₿
 C# cryptocurrency trading bot with automated analysis and trading strategies. Demonstrates real-time data processing and financial API integration.
 
-### [Cryptobot AI Nodejs Migration](https://github.com/TonyCasey/cryptobot-nodejs-migration)) 🤖
+### [Cryptobot AI Nodejs Migration](https://github.com/TonyCasey/cryptobot-nodejs-migration) 🤖
 An AI Claude Code driven migration of the original .Net Framework 4 solution [Cryptobot](https://github.com/TonyCasey/cryptobot) to Node.js and a monorepo structure.
 
-### [Cryptobot AI DotNet Migration](https://github.com/TonyCasey/cryptobot-dotnet-migration)) 🤖
+### [Cryptobot AI DotNet Migration](https://github.com/TonyCasey/cryptobot-dotnet-migration) 🤖
 An AI Claude Code driven migration of the original .Net Framework 4 solution [Cryptobot](https://github.com/TonyCasey/cryptobot) to .NET 9/C# 13 following Clean Architecture principles.
 
 ### [Public Prep](https://github.com/TonyCasey/public-prep) 📚
