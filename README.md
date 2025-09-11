@@ -50,10 +50,10 @@ TypeScript application integrating NASA's APIs for astronomical data exploration
 
 ## 💼 Professional Background
 
-**Bounce Insights (Current)** - Senior Software Engineer AI  
+**[Bounce Insights](https://bounceinsights.com) (Current)** - Senior Software Engineer AI  
 *Market insights powered by people and driven by AI*
   
-**eShopWorld (2013-2025)** - Senior .NET Developer  
+**[essw (eShopWorld)](https://esw.com) (2013-2025)** - Senior .NET Developer  
 *Started as 5th developer, scaled through hypergrowth to unicorn*
 - Architected checkout systems serving millions of transactions
 - Led migration from monolithic WCF to .NET Core microservices
