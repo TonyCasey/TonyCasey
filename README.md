@@ -33,6 +33,9 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 
 ## 🚀 Featured Projects
 
+### [Custom CLI](https://github.com/TonyCasey/custom-cli)
+Custom Bash CLI framework for building personalized command-line tools. Create your own CLI to run applications, chain commands, and orchestrate complex workflows with modular Bash architecture.
+
 ### [Cryptobot](https://github.com/TonyCasey/cryptobot) ₿
 C# cryptocurrency trading bot with automated analysis and trading strategies. Demonstrates real-time data processing and financial API integration.
 
