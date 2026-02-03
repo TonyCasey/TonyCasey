@@ -1,7 +1,7 @@
 # Tony Casey 👋
 
 **Senior Software Engineer AI | Dublin, Ireland**  
-*Transitioning from Enterprise .NET to AI Software Development*
+*AI Software Development & Automation*
 
 ## About Me
 
