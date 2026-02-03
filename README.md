@@ -11,6 +11,7 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 
 ## 🔭 Current Focus
 
+-**AI Memorys**: Building real world, actual memory for Claude beyond .md, .json & .txt files.
 - **AI Infrastructure**: Building applications with OpenAI and Claude APIs
 - **Enterprise Migration**: Testing Claude Code for .NET Framework → .NET Core 8 upgrades
 - **Academic Growth**: Professional Diploma in AI for Software Developers (University of Galway)
@@ -32,6 +33,9 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 - **Data**: SQL Server optimization, Entity Framework
 
 ## 🚀 Featured Projects
+
+### [Lisa](https://github.com/TonyCasey/lisa)
+Claude session amnesia solved using local graph storage.
 
 ### [Custom CLI](https://github.com/TonyCasey/custom-cli)
 Custom Bash CLI framework for building personalized command-line tools. Create your own CLI to run applications, chain commands, and orchestrate complex workflows with modular Bash architecture.
@@ -70,9 +74,9 @@ TypeScript application integrating NASA's APIs for astronomical data exploration
 
 ## 🎯 Career Transition
 
-I'm actively transitioning from enterprise .NET development to AI infrastructure, combining my deep systems experience with modern AI capabilities. My goal is to work on infrastructure that makes AI accessible and reliable at scale.
+I'm actively transitioning from enterprise .NET development to AI Orchestration, combining my deep systems experience with modern AI capabilities. My goal is to make AI to do me out of a job.
 
-**Why AI Infrastructure?**
+**Why AI Orchestration?**
 - **Proven Scaling Experience**: Built systems handling millions of users
 - **Customer-Focused Engineering**: Understanding of both technical and business requirements  
 - **Migration Expertise**: Successfully led multiple technology transitions
