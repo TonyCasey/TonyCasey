@@ -47,17 +47,11 @@ An EASY way to manage your AI CLI Dev tool config folders
 ### [Custom CLI](https://github.com/TonyCasey/custom-cli)
 Custom Bash CLI framework for building personalized command-line tools. Create your own CLI to run applications, chain commands, and orchestrate complex workflows with modular Bash architecture.
 
+### [sign-pdf-free](https://github.com/TonyCasey/sign-pdf-for-free#readme)
+A free app for adding signatures to pdf's. 
+
 ### [Cryptobot](https://github.com/TonyCasey/cryptobot) ₿
 C# cryptocurrency trading bot with automated analysis and trading strategies. Demonstrates real-time data processing and financial API integration.
-
-### [Cryptobot AI Nodejs Migration](https://github.com/TonyCasey/cryptobot-nodejs-migration) 🤖
-An AI Claude Code driven migration of the original .Net Framework 4 solution [Cryptobot](https://github.com/TonyCasey/cryptobot) to Node.js and a monorepo structure.
-
-### [Cryptobot AI DotNet Migration](https://github.com/TonyCasey/cryptobot-dotnet-migration) 🤖
-An AI Claude Code driven migration of the original .Net Framework 4 solution [Cryptobot](https://github.com/TonyCasey/cryptobot) to .NET 9/C# 13 following Clean Architecture principles.
-
-### [Public Prep](https://github.com/TonyCasey/public-prep) 📚
-AI-Powered Interview Preparation Platform with AI-powered feedback, speech recognition, and structured evaluation using the STAR method.
 
 ## 💼 Professional Background
 
