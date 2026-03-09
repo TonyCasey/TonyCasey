@@ -1,17 +1,18 @@
 # Tony Casey 👋
 
-**Senior Software Engineer AI | Dublin, Ireland**  
-*AI Software Development & Automation*
+**Senior AI Engineer & Enterprise Architect | Dublin, Ireland**  
+*Pushing the boundries of AI in the enterprise*
 
 ## About Me
 
-I'm a seasoned software engineer with 15+ years building scalable enterprise systems, now actively transitioning into AI Software development. My background includes architecting systems that serve millions of users at eShopWorld and founding VendorShop, the first Facebook commerce platform.
+15+ years designing and delivering scalable systems across e-commerce, SaaS, and financial technology. Proven track record building production LLM applications, multi-agent orchestration systems, and RAG-adjacent knowledge graph infrastructure
 
 Currently pursuing a Professional Diploma in AI for Software Developers at University of Galway while building practical AI applications and testing enterprise migration strategies with Claude Code.
 
 ## 🔭 Current Focus
 
--**AI Memorys**: Building real world, actual memory for Claude beyond .md, .json & .txt files.
+- **AI Memory Using Git**: Transforming git commits into AI knowledge. 
+- **AI Memory Using Graph**: Actual memory for Claude beyond .md, .json & .txt files.
 - **AI Infrastructure**: Building applications with OpenAI and Claude APIs
 - **Enterprise Migration**: Testing Claude Code for .NET Framework → .NET Core 8 upgrades
 - **Academic Growth**: Professional Diploma in AI for Software Developers (University of Galway)
@@ -20,7 +21,7 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 ## 🛠️ Technical Expertise
 
 **Enterprise Development**
-- **Languages**: C#, TypeScript, JavaScript, Python (learning)
+- **Languages**: C#, TypeScript, JavaScript, Python
 - **Frameworks**: .NET Core, ASP.NET, Angular, Node.js
 - **Cloud**: Azure (extensive), AWS (learning), Service Fabric
 - **Architecture**: Microservices, Clean Architecture, Domain-Driven Design
@@ -34,8 +35,14 @@ Currently pursuing a Professional Diploma in AI for Software Developers at Unive
 
 ## 🚀 Featured Projects
 
-### [Lisa](https://github.com/TonyCasey/lisa)
-Claude session amnesia solved using local graph storage.
+### [git-mem](https://github.com/TonyCasey/git-mem#readme)
+You already have the best memory system for your codebase. It just needs to be unlocked for AI Agents 
+
+### [Lisa](https://github.com/TonyCasey/lisa#readme)
+Claude session amnesia solved using local graph (neo4j) storage.
+
+### [dot-files-manager](https://github.com/TonyCasey/ai-dotfiles-manager#readme)
+An EASY way to manage your AI CLI Dev tool config folders
 
 ### [Custom CLI](https://github.com/TonyCasey/custom-cli)
 Custom Bash CLI framework for building personalized command-line tools. Create your own CLI to run applications, chain commands, and orchestrate complex workflows with modular Bash architecture.
@@ -52,12 +59,9 @@ An AI Claude Code driven migration of the original .Net Framework 4 solution [Cr
 ### [Public Prep](https://github.com/TonyCasey/public-prep) 📚
 AI-Powered Interview Preparation Platform with AI-powered feedback, speech recognition, and structured evaluation using the STAR method.
 
-### [NASA Explorer](https://github.com/TonyCasey/nasa-explorer) 🌌
-TypeScript application integrating NASA's APIs for astronomical data exploration. Demonstrates modern frontend development and API integration patterns.
-
 ## 💼 Professional Background
 
-**[Bounce Insights](https://bounceinsights.com) (Current)** - Senior Software Engineer AI  
+**[Bounce Insights](https://bounceinsights.com) (Current)** - Senior AI Software Engineer  
 *Market insights powered by people and driven by AI*
   
 **[essw (eShopWorld)](https://esw.com) (2013-2025)** - Senior .NET Developer  
@@ -71,23 +75,6 @@ TypeScript application integrating NASA's APIs for astronomical data exploration
 - 70,000+ merchants, $1M+ in sales generated
 - Full-stack ASP.NET development and team leadership
 - Secured funding from Enterprise Ireland and Realex
-
-## 🎯 Career Transition
-
-I'm actively transitioning from enterprise .NET development to AI Orchestration, combining my deep systems experience with modern AI capabilities. My goal is to make AI to do me out of a job.
-
-**Why AI Orchestration?**
-- **Proven Scaling Experience**: Built systems handling millions of users
-- **Customer-Focused Engineering**: Understanding of both technical and business requirements  
-- **Migration Expertise**: Successfully led multiple technology transitions
-- **Infrastructure Mindset**: Deep appreciation for reliable, maintainable systems
-
-## 📈 Recent Learning
-
-- **AI Development**: Hands-on projects with OpenAI, Claude, and agentic platforms
-- **Academic Study**: Professional Diploma in AI for Software Developers
-- **Practical Research**: Testing Claude Code for enterprise legacy system modernization
-- **Technology Adaptation**: Expanding from .NET/Azure to Python/AWS ecosystems
 
 ## 📫 Let's Connect
 
